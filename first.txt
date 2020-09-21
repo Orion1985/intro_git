@@ -5,5 +5,6 @@ gitプロジェクトを作成します
 ・git rm
 ・git add
 ・git status
+・git diff
 
 
