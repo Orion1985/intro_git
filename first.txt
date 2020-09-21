@@ -3,3 +3,7 @@ gitプロジェクトを作成します
 
 ・git init
 ・git rm
+・git add
+・git status
+
+
