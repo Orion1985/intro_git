@@ -2,3 +2,4 @@
 gitプロジェクトを作成します
 
 ・git init
+・git rm
